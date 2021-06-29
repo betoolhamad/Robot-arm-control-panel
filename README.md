@@ -5,7 +5,7 @@ I Built a User interface contains a control panel to control the robot arm, whic
 
 <img width="700" alt="Control Panel" src="https://user-images.githubusercontent.com/43522153/123710152-e682bb80-d876-11eb-9ebf-cffd66ee75df.png">
 
-The range slider motors are controlled it like this :
+**The range slider motors are controlled it like this :**
 
 <img width="700" alt="Control Panel" src="https://user-images.githubusercontent.com/43522153/123711200-c05e1b00-d878-11eb-9a37-54a698030d68.gif">
 
