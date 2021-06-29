@@ -21,7 +21,7 @@ The range slider motors are controlled it like this :
 
 <img width="700" alt="Control Panel" src="https://user-images.githubusercontent.com/43522153/123713125-68291800-d87c-11eb-9560-89f2f623f183.gif">
 
-**Here, the first page of PHP which return from the database the last values of motors entered : **
+**Here, the first page of PHP which return from the database the last values of motors entered :**
 
 <img width="700" alt="Control Panel" src="https://user-images.githubusercontent.com/43522153/123714271-a8899580-d87e-11eb-8a55-44a5576277c4.gif">
 
